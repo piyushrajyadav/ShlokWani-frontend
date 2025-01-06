@@ -1,0 +1,125 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #b3c8f1, #f0e6ff); /* Soft pastel gradient for a calming effect */
+    background-image: url('https://example.com/spiritual-background.jpg'); /* Replace with a calming, spiritual image URL */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    background-blend-mode: soft-light; /* Blend the gradient with the image for a soft spiritual glow */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Header Styling */
+h1 {
+    font-size: 3rem; /* Increased font size for a prominent header */
+    color: #6c3483; /* Spiritual purple color */
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Georgia', serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Soft shadow for depth */
+}
+
+/* Subheading Styling */
+h2 {
+    font-size: 1.8rem; /* Larger subheading for more presence */
+    color: #6c3483; /* Spiritual purple for the subheading */
+    margin-bottom: 20px;
+    font-family: 'Georgia', serif;
+}
+
+/* Button Styling */
+button {
+    padding: 15px 30px;
+    font-size: 1.5rem; /* Increased font size for button */
+    color: white;
+    background: linear-gradient(90deg, #f7d0b3, #6c3483); /* Soft spiritual gradient for button */
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, transform 0.2s; /* Added transform for hover effect */
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #6c3483, #f7d0b3); /* Reverse gradient for button hover */
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+}
+
+/* Input Field Styling */
+input[type="number"] {
+    padding: 18px;
+    font-size: 1.5rem; /* Increased input font size */
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 20px;
+    border: 2px solid #f7d0b3; /* Light golden border for a calm look */
+    border-radius: 15px;
+    background: #fff;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Highlight input on focus */
+input[type="number"]:focus {
+    border-color: #f7d0b3;
+    outline: none;
+    box-shadow: 0 0 8px rgba(255, 211, 179, 0.5); /* Soft golden glow */
+}
+
+/* Result Display */
+#result {
+    font-size: 2.5rem; /* Larger output text for clarity */
+    color: #6c3483; /* Spiritual purple text */
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white for readability */
+    padding: 30px;
+    border-radius: 15px;
+    border: 2px solid #6c3483; /* Purple border for spiritual look */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 600px;
+    margin-top: 30px;
+    transition: transform 0.3s; /* Added transition for hover effect */
+}
+
+#result:hover {
+    transform: scale(1.02); /* Slightly enlarge result box on hover */
+}
+
+/* General Layout Styling */
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Centered form and button styling */
+.input-group {
+    text-align: center;
+}
+
+.input-group input {
+    margin-bottom: 15px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
