@@ -74,8 +74,7 @@ Ensure you have the following installed:
 
 
 ## folder structure
-Shlowani/
-│
+
 ├── backend/  
 │   ├── app.py               # Flask backend  
 │   ├── gita_data/           # Folder containing shlok JSON files  
@@ -117,7 +116,8 @@ Contributions are welcome! Follow these steps to contribute:
 4. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For queries or support, contact **Piyush Yadav** at piyushyadavrajyadav@gmail.com.
