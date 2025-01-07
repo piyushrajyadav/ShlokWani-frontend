@@ -116,8 +116,11 @@ Contributions are welcome! Follow these steps to contribute:
 4. Submit a pull request.
 
 ## License
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+You may not use this project for commercial purposes without explicit permission from the owner. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 For queries or support, contact **Piyush Yadav** at piyushyadavrajyadav@gmail.com.
