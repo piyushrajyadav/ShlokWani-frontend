@@ -3,11 +3,11 @@ for the backend of the project - https://github.com/piyushrajyadav/shlokwani
 
 Website Link - https://shlokwani.netlify.app/
 
-##overview of website 
+## overview of website 
 ### search page 
 ![image](https://github.com/user-attachments/assets/d1d59cb0-aa2c-400f-8828-9b56cfb5df3a)
 
-###result after search 
+### result after search 
 ![image](https://github.com/user-attachments/assets/aea99590-2bb8-4819-b5af-c2c57516ed3f)
 
 
@@ -73,7 +73,7 @@ Ensure you have the following installed:
    The React app will run on `http://localhost:3000`.
 
 
-##folder structure
+## folder structure
 Shlowani/
 │
 ├── backend/  
