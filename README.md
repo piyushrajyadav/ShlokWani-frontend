@@ -29,9 +29,6 @@ The **Gita Shlok Finder** is a web application where users can input a chapter a
 - Flask
 - Python
 
-### Additional:
-- RESTful API
-- Database (for storing shloks and translations)
 
 ## Installation
 
@@ -43,10 +40,7 @@ Ensure you have the following installed:
 
 ### Backend Setup
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gita-shlok-finder.git
-   cd gita-shlok-finder/backend
-   ```
+  
 2. Create and activate a virtual environment:
    ```bash
    python -m venv venv
@@ -78,7 +72,7 @@ Ensure you have the following installed:
    The React app will run on `http://localhost:3000`.
 
 
-#folder structure
+##folder structure
 Shlowani/
 │
 ├── backend/  
