@@ -5,7 +5,7 @@ const Result = ({ shlok }) => {
   // If `shlok` is not available or still being fetched, show loading state
   if (!shlok) {
     return <div>Please enter chapter and shlok number of bhagwat geeta</div>; 
-            <div>Radhe Radhe </div>:
+            <div>Radhe Radhe </div>;
   }
 
   // Destructure the necessary data from the JSON
