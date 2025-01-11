@@ -4,8 +4,8 @@ import React from 'react';
 const Result = ({ shlok }) => {
   // If `shlok` is not available or still being fetched, show loading state
   if (!shlok) {
-    return <div>Please enter chapter and shlok number of bhagwat geeta</div>; 
-            <div>Radhe Radhe </div>;
+    return <div>Please enter any chapter and shlok number of bhagwat geeta , RAHE RADHE </div>; 
+           
   }
 
   // Destructure the necessary data from the JSON
